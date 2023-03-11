@@ -1,4 +1,4 @@
 public interface WeServe {
-    public void weServe(Bicycle bicycle);
+    void weServe(Bicycle bicycle);
 
 }
