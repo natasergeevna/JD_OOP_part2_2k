@@ -3,8 +3,6 @@ public class Bicycle{
     private int wheelsCount;
 
     public Bicycle() {
-        this.modelName = modelName;
-        this.wheelsCount = wheelsCount;
     }
 
     public String getModelName() {
